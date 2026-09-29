@@ -1,0 +1,6 @@
+{
+  "name": "MisbahWrites",
+  "description": "An editorial platform exploring youth culture, community dynamics, and the quiet transformations of Upper Chitral.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
